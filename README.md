@@ -26,7 +26,7 @@ Key observations from the above dataframe are:
 
 
 
-*  With huge demand, there was less earnings in weekly fares from areas. The image below shows the massive difference in earnings in a weekly basis which can be interpreted as follows; the seemingly high average fare per driver is putting off customers in rural areas and the low average fare per driver in urban areas is attracting customers. 
+*  With huge demand, there was less earnings in weekly fares from rural areas. The image below shows the massive difference in earnings in a weekly basis which can be interpreted as follows; the seemingly high average fare per driver is putting off customers in rural areas and the low average fare per driver in urban areas is attracting customers. 
 
 
 
